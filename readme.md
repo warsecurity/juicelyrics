@@ -13,13 +13,12 @@
 
 ## 999 SHI7
 
-Experience Juice WRLD lyrics. This application is a comprehensive, fully offline archive of unreleased juice wrld plus released plus all leaks. Whether you are listening to hits or unreleased tracks, follow along with every word.
+Experience Juice WRLD lyrics. This application is a comprehensive, fully offline archive of unreleased Juice WRLD plus released plus all leaks. Whether you are listening to hits or unreleased tracks, follow along with every word.
 
 ## Features
 
 * **Massive Archive:** Over 2,000 unique songs verified.
 * **100% Offline:** No internet required. Access lyrics anytime.
-
 
 ## Compatibility
 
@@ -29,8 +28,8 @@ Experience Juice WRLD lyrics. This application is a comprehensive, fully offline
 ---
 
 <div align="center">
-  <a href="https://github.com/rootkitnull/juicewrldlyrics/releases/latest">
-    <img src="https://img.shields.io/badge/DOWNLOAD_APK-999-black?style=for-the-badge&logo=android&logoColor=white" width="300px" height="80px">
+  <a href="https://github.com/warsecurity/juicelyrics/releases/latest">
+    <img src="https://img.shields.io/badge/DOWNLOAD_APK-999-blue?style=for-the-badge&logo=android&logoColor=white" width="400px" height="100px">
   </a>
   <p><strong>Click above to download the APK</strong></p>
 </div>
